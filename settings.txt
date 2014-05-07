@@ -1,1 +1,2 @@
 This is a test file for settings.  created initially on the github server
+Now i made a change locally
